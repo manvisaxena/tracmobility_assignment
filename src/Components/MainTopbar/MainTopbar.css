@@ -1,0 +1,17 @@
+.toolBar {
+  margin-left: var(--drawerWidth);
+  background-color: #fff !important;
+}
+
+.searchbar {
+  width: 400px;
+  flex-grow: 1;
+}
+
+.topBarButtons {
+  display: flex;
+}
+
+.topBarButton {
+  margin-right: 10px !important;
+}

@@ -1,0 +1,9 @@
+.tableColumnName {
+  font-weight: bold !important;
+  max-width: 100px;
+}
+
+.tableColumnValue {
+  max-width: 100px;
+  word-break: break-all;
+}

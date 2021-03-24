@@ -1,0 +1,14 @@
+.drawerPaper {
+  width: 240px;
+  background-color: #03989e !important;
+  color: #fff !important;
+}
+
+.companyName {
+  padding: 15px;
+  text-align: center;
+}
+
+.nested {
+  padding-left: 70px !important;
+}

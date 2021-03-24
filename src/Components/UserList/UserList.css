@@ -1,0 +1,21 @@
+.paper {
+  margin: 0 20px 20px 0;
+}
+
+.paperContent {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.paperHeader {
+  display: flex;
+  align-items: center;
+}
+
+.paperHeading {
+  flex-grow: 1;
+}
+
+.paperHeading > h6 {
+  font-weight: bold;
+}
